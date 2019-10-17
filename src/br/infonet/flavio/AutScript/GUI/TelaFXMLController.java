@@ -28,7 +28,7 @@ import javafx.scene.input.KeyEvent;
  *
  * @author flaviorodolfo
  */
-public class TelaFXMLController_old implements Initializable {
+public class TelaFXMLController implements Initializable {
 
     /**
      * Initializes the controller class.
